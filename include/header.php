@@ -2,7 +2,7 @@
 
 	<div class="topHeader">
 		<div class="HcontainerFull">
-			<div class=" topHeaderBox d-flex align-items-center justify-content-between">
+			<div class="topHeaderBox d-flex align-items-center justify-content-between">
 				<div class="topLeft">
 					<a href="index.php" class="d-flex">
 						<div class="leftLogo">
@@ -17,7 +17,7 @@
 						</div>
 					</a>
 				</div>
-				<div class="topRight d-none d-md-flex">
+				<div class="topRight d-none d-lg-flex">
 
 					<!-- <div class="topIconBox">
 						<h3><i class="fa-regular fa-clock"></i> 9:00 - 19:00</h3>
@@ -52,10 +52,10 @@
 
 	<div class="mainMenu">
 		<div class="HcontainerFull">
-			<div class="inlineHeader">
+			<div class="inlineHeader d-none d-lg-block">
 
 
-				<div class="rightMenu d-none d-lg-block">
+				<div class="rightMenu">
 
 					<div class="rightLogo">
 
@@ -143,7 +143,7 @@
 			<ul>
 
 				<li><a href="index.php">Home </a></li>
-				<li class="newNavDrop"><a href="about-us.php">About us </a>
+				<li class="newNavDrop"><a href="about-us.php">About us </a><i class="fa-solid fa-angle-down"></i>
 					<div class="newNavBox">
 						<ul>
 							<li><a href="history.php">History</a></li>
@@ -152,7 +152,7 @@
 					</div>
 				</li>
 
-				<li class="newNavDrop"><a href="#">Member Resources </a>
+				<li class="newNavDrop"><a href="#">Member Resources </a><i class="fa-solid fa-angle-down"></i>
 					<div class="newNavBox">
 						<ul>
 							<li><a href="membership-process.php">Membership process</a></li>
@@ -163,7 +163,8 @@
 				<li><a href="updates.php">Updates / initiatives</a></li>
 				<li><a href="directory.php">SCAORA Directory</a></li>
 				<li><a href="e-journal.php">SCAORA E-journal</a></li>
-				<li class="newNavDrop"><a href="#">Supreme Court</a>
+				
+				<li class="newNavDrop"><a href="#">Supreme Court</a><i class="fa-solid fa-angle-down"></i>
 					<div class="newNavBox">
 						<ul>
 							<li><a href="https://www.sci.gov.in/cause-list/" target="_blank">Cause List</a></li>
@@ -179,14 +180,19 @@
 					</div>
 				</li>
 				<li><a href="notices.php">Notices & Circulars</a></li>
-
-
-
+				<li><a href="contact.php">Contact us</a></li>
 
 			</ul>
 
 
 		</div>
 
+		<div class="sideIconBox">
+			<ul>
+				<li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
+				<li><a href="#"><i class="fa-brands fa-youtube"></i></a></li>
+				<li><a href="#"><i class="fa-brands fa-linkedin-in"></i></a></li>
+			</ul>
+		</div>
 	</div>
 </div>

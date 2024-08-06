@@ -43,9 +43,9 @@
         <section>
             <div class="containerFull">
                 <div class="row">
-                    <div class="col-lg-6">
+                    <div class="col-lg-6 order-2 order-md-1 mt-3 mt-md-0">
 
-                        <div class="staffContainer p-3">
+                        <div class="staffContainer p-md-3">
                             <div class="staffBox">
                                 <div class="staffImg">
                                     <picture>
@@ -96,7 +96,7 @@
 
 
                     </div>
-                    <div class="col-lg-6 pt-3">
+                    <div class="col-lg-6 pt-3 order-1 order-md-1">
                         <h2 class="large_heading text-center fontWeight700">Contact Us</h2>
                         <div class="newContactIcons">
 
@@ -166,11 +166,11 @@
             <div class="containerFull">
 
                 <div class="row">
-                    <div class="col-lg-6 px-5">
+                    <div class="col-lg-6 px-md-5">
 
-                        <h1 class="sub_heading fontWeight700 my-4">For Any Query</h1>
+                        <h1 class="sub_heading fontWeight700 my-md-4 mb-4">For Any Query</h1>
 
-                        <form>
+                        <form class="mb-4 mb-md-0">
 
                             <div class="form-bottom row">
 
@@ -205,7 +205,7 @@
 
                         </form>
                     </div>
-                    <div class="col-lg-6 px-5">
+                    <div class="col-lg-6 px-md-5">
 
                         <iframe class="rounded-3 stickyItem" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3502.2631285020907!2d77.23893697396772!3d28.621874903700576!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390ce32a616ca37d%3A0xcfa50695c68a4a21!2sSupreme%20Court%20of%20India%20New%20Building%20(%20Extension%20)!5e0!3m2!1sen!2sin!4v1721813471154!5m2!1sen!2sin" width="100%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 

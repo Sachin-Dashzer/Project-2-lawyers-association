@@ -40,7 +40,7 @@
 
         <section>
             <div class="containerFull">
-                <div class="journalTable px-5">
+                <div class="journalTable px-md-5">
 
                         <table>
                             <tr>

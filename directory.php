@@ -95,7 +95,7 @@
 
 
 
-                <div class="journalTable bottomMembersBox px-5">
+                <div class="journalTable bottomMembersBox px-md-5">
 
                     <table>
                         <tr>

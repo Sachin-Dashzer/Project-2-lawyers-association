@@ -39,44 +39,45 @@
       </div>
 
 
+   
       <section class="">
          <div class="containerFull">
             <div class="row g-4">
                <div class="col-xl-6 col-lg-6 col-12">
                   <div>
                      <small class="text-uppercase ls-md fw-semibold">About us</small>
-                     <h2 class="h1 mt-3 mb-3">We are here to manage your law with experince.</h2>
+                     <h2 class="h1 mt-md-3 mt-2 mb-3">We are here to manage your law with experince.</h2>
                      <p class="mb-3">Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country.</p>
                      <p class="mb-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut corporis pariatur perspiciatis dignissimos mollitia, deserunt quaerat delectus accusamus veniam natus.</p>
 
                   </div>
 
-                  <div class="row mt-3 px-3">
-                     <div class="col-lg-6">
+                  <div class="row mt-3 px-md-3">
+                     <div class="col-6">
                         <a href="#" class="text-dark aboutLinks">
-                           <p class="my-3 fontWeight700 title"><i class="me-2 fa-solid fa-arrow-right"></i>Lorem ipsum dolor sit amet</p>
+                           <p class="my-md-3 mb-2 fontWeight700 title"><i class="me-2 fa-solid fa-arrow-right"></i>Lorem ipsum dolor sit amet</p>
                         </a>
                      </div>
-                     <div class="col-lg-6">
+                     <div class="col-6">
                         <a href="#" class="text-dark aboutLinks">
-                           <p class="my-3 fontWeight700 title"><i class="me-2 fa-solid fa-arrow-right"></i>Lorem ipsum dolor sit amet</p>
+                           <p class="my-md-3 mb-2 fontWeight700 title"><i class="me-2 fa-solid fa-arrow-right"></i>Lorem ipsum dolor sit amet</p>
                         </a>
                      </div>
-                     <div class="col-lg-6">
+                     <div class="col-6">
                         <a href="#" class="text-dark aboutLinks">
-                           <p class="my-3 fontWeight700 title"><i class="me-2 fa-solid fa-arrow-right"></i>Lorem ipsum dolor sit amet</p>
+                           <p class="my-md-3 mb-2 fontWeight700 title"><i class="me-2 fa-solid fa-arrow-right"></i>Lorem ipsum dolor sit amet</p>
                         </a>
                      </div>
-                     <div class="col-lg-6">
+                     <div class="col-6">
                         <a href="#" class="text-dark aboutLinks">
-                           <p class="my-3 fontWeight700 title"><i class="me-2 fa-solid fa-arrow-right"></i>Lorem ipsum dolor sit amet</p>
+                           <p class="my-md-3 mb-2 fontWeight700 title"><i class="me-2 fa-solid fa-arrow-right"></i>Lorem ipsum dolor sit amet</p>
                         </a>
                      </div>
                   </div>
                   <hr>
 
                </div>
-               <div class="col-xl-6 col-lg-6 col-12 px-5 pb-2 overflow-hidden ">
+               <div class="col-xl-6 col-lg-6 col-12 px-md-5 pb-md-2 margin-none overflow-hidden ">
 
                   <div class="mb-2 rounded-5 card-lift">
 
@@ -93,9 +94,9 @@
 
 
          <div class="containerFull">
-            <div class="row g-5">
+            <div class="row g-3 g-md-5">
 
-               <div class="col-lg-6 px-5 pt-3">
+               <div class="col-lg-6 px-5 mb-4 mb-md-0  pt-3">
                   <div class="signatureBox">
                      <div class="signature"><i class="fa-solid fa-signature"></i></div>
                      <div>
@@ -106,8 +107,8 @@
                </div>
 
                <div class="col-lg-6">
-                  <div class="row g-5">
-                     <div class="col-md-4 col-6">
+                  <div class="row g-md-5 g-4">
+                     <div class="col-md-4 mx-auto col-6">
                         <div class="text-center">
                            <div class="d-flex justify-content-center">
                               <h2 class="counter mb-0">120</h2>
@@ -117,7 +118,7 @@
                            <small>Influential speakers</small>
                         </div>
                      </div>
-                     <div class="col-md-4 col-6">
+                     <div class="col-md-4 mx-auto col-6">
                         <div class="text-center">
                            <div class="d-flex justify-content-center">
                               <h2 class="counter mb-0">10</h2>
@@ -127,7 +128,7 @@
                            <small>Sessions (Live)</small>
                         </div>
                      </div>
-                     <div class="col-md-4 col-6">
+                     <div class="col-md-4 mx-auto col-6">
                         <div class="text-center">
                            <div class="d-flex justify-content-center">
                               <h2 class="counter mb-0">12</h2>
@@ -147,9 +148,9 @@
 
 
          <div class="containerFull processSection">
-            <div class="row border-top border-2">
-               <div class="col-md-3 serviceBox">
-                  <div class="text-center p-4">
+            <div class="row border-md-top border-2">
+               <div class="col-md-3 col-6 mb-5 mb-md-0 serviceBox">
+                  <div class="text-center p-md-4 px-0">
                      <div class="yearBox">
                         <h3 class="small_heading">2019</h3>
                         <h4><i class="fa-solid fa-circle"></i></h4>
@@ -160,8 +161,8 @@
                      </div>
                   </div>
                </div>
-               <div class="col-md-3 serviceBox">
-                  <div class="text-center p-4">
+               <div class="col-md-3 col-6 mb-5 mb-md-0 serviceBox">
+                  <div class="text-center p-md-4 px-0">
                      <div class="yearBox">
                         <h3 class="small_heading">2020</h3>
                         <h4><i class="fa-solid fa-circle"></i></h4>
@@ -172,8 +173,8 @@
                      </div>
                   </div>
                </div>
-               <div class="col-md-3 serviceBox">
-                  <div class="text-center p-4">
+               <div class="col-md-3 col-6 mt-3 mt-md-0 serviceBox">
+                  <div class="text-center p-md-4 px-0">
                      <div class="yearBox">
                         <h3 class="small_heading">2021</h3>
                         <h4><i class="fa-solid fa-circle"></i></h4>
@@ -184,8 +185,8 @@
                      </div>
                   </div>
                </div>
-               <div class="col-md-3 serviceBox">
-                  <div class="text-center p-4">
+               <div class="col-md-3 col-6 mt-3 mt-md-0 serviceBox">
+                  <div class="text-center p-md-4 px-0">
                      <div class="yearBox">
                         <h3 class="small_heading">2022</h3>
                         <h4><i class="fa-solid fa-circle"></i></h4>
@@ -208,6 +209,7 @@
          <div class="container">
             <h1 class="heading text-center fontWeight600">Our Current Executives Team Members </h1>
 
+         
             <div class="design1 mt-lg-5">
                <div class="membersBox mt-lg-5">
 
@@ -220,7 +222,7 @@
                <div class="membersDetails">
 
                   <div class="mContainer activeContainer row">
-                     <div class="col-lg-3 px-3 mb-4">
+                     <div class="col-lg-3 col-6 px-3 mb-4">
                         <div class="mItem">
                            <div class="mImg">
                               <picture>
@@ -231,7 +233,7 @@
                            <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
                         </div>
                      </div>
-                     <div class="col-lg-3 px-3 mb-4">
+                     <div class="col-lg-3 col-6 px-3 mb-4">
                         <div class="mItem">
                            <div class="mImg">
                               <picture>
@@ -242,7 +244,7 @@
                            <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
                         </div>
                      </div>
-                     <div class="col-lg-3 px-3 mb-4">
+                     <div class="col-lg-3 col-6 px-3 mb-4">
                         <div class="mItem">
                            <div class="mImg">
                               <picture>
@@ -253,7 +255,7 @@
                            <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
                         </div>
                      </div>
-                     <div class="col-lg-3 px-3 mb-4">
+                     <div class="col-lg-3 col-6 px-3 mb-4">
                         <div class="mItem">
                            <div class="mImg">
                               <picture>
@@ -264,7 +266,7 @@
                            <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
                         </div>
                      </div>
-                     <div class="col-lg-3 px-3 mb-4">
+                     <div class="col-lg-3 col-6 px-3 mb-4">
                         <div class="mItem">
                            <div class="mImg">
                               <picture>
@@ -275,75 +277,7 @@
                            <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
                         </div>
                      </div>
-                     <div class="col-lg-3 px-3 mb-4">
-                        <div class="mItem">
-                           <div class="mImg">
-                              <picture>
-                                 <source srcset="images/dummy.webp" type="image/webp" />
-                                 <img src="images/dummy.png" alt="" />
-                              </picture>
-                           </div>
-                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
-                        </div>
-                     </div>
-                  </div>
-                  <div class="mContainer row">
-                     <div class="col-lg-3 px-3 mb-4">
-                        <div class="mItem">
-                           <div class="mImg">
-                              <picture>
-                                 <source srcset="images/dummy.webp" type="image/webp" />
-                                 <img src="images/dummy.png" alt="" />
-                              </picture>
-                           </div>
-                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
-                        </div>
-                     </div>
-                     <div class="col-lg-3 px-3 mb-4">
-                        <div class="mItem">
-                           <div class="mImg">
-                              <picture>
-                                 <source srcset="images/dummy.webp" type="image/webp" />
-                                 <img src="images/dummy.png" alt="" />
-                              </picture>
-                           </div>
-                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
-                        </div>
-                     </div>
-                     <div class="col-lg-3 px-3 mb-4">
-                        <div class="mItem">
-                           <div class="mImg">
-                              <picture>
-                                 <source srcset="images/dummy.webp" type="image/webp" />
-                                 <img src="images/dummy.png" alt="" />
-                              </picture>
-                           </div>
-                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
-                        </div>
-                     </div>
-                     <div class="col-lg-3 px-3 mb-4">
-                        <div class="mItem">
-                           <div class="mImg">
-                              <picture>
-                                 <source srcset="images/dummy.webp" type="image/webp" />
-                                 <img src="images/dummy.png" alt="" />
-                              </picture>
-                           </div>
-                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
-                        </div>
-                     </div>
-                     <div class="col-lg-3 px-3 mb-4">
-                        <div class="mItem">
-                           <div class="mImg">
-                              <picture>
-                                 <source srcset="images/dummy.webp" type="image/webp" />
-                                 <img src="images/dummy.png" alt="" />
-                              </picture>
-                           </div>
-                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
-                        </div>
-                     </div>
-                     <div class="col-lg-3 px-3 mb-4">
+                     <div class="col-lg-3 col-6 px-3 mb-4">
                         <div class="mItem">
                            <div class="mImg">
                               <picture>
@@ -356,7 +290,7 @@
                      </div>
                   </div>
                   <div class="mContainer row">
-                     <div class="col-lg-3 px-3 mb-4">
+                     <div class="col-lg-3 col-6 px-3 mb-4">
                         <div class="mItem">
                            <div class="mImg">
                               <picture>
@@ -367,7 +301,7 @@
                            <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
                         </div>
                      </div>
-                     <div class="col-lg-3 px-3 mb-4">
+                     <div class="col-lg-3 col-6 px-3 mb-4">
                         <div class="mItem">
                            <div class="mImg">
                               <picture>
@@ -378,7 +312,75 @@
                            <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
                         </div>
                      </div>
-                     <div class="col-lg-3 px-3 mb-4">
+                     <div class="col-lg-3 col-6 px-3 mb-4">
+                        <div class="mItem">
+                           <div class="mImg">
+                              <picture>
+                                 <source srcset="images/dummy.webp" type="image/webp" />
+                                 <img src="images/dummy.png" alt="" />
+                              </picture>
+                           </div>
+                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
+                        </div>
+                     </div>
+                     <div class="col-lg-3 col-6 px-3 mb-4">
+                        <div class="mItem">
+                           <div class="mImg">
+                              <picture>
+                                 <source srcset="images/dummy.webp" type="image/webp" />
+                                 <img src="images/dummy.png" alt="" />
+                              </picture>
+                           </div>
+                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
+                        </div>
+                     </div>
+                     <div class="col-lg-3 col-6 px-3 mb-4">
+                        <div class="mItem">
+                           <div class="mImg">
+                              <picture>
+                                 <source srcset="images/dummy.webp" type="image/webp" />
+                                 <img src="images/dummy.png" alt="" />
+                              </picture>
+                           </div>
+                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
+                        </div>
+                     </div>
+                     <div class="col-lg-3 col-6 px-3 mb-4">
+                        <div class="mItem">
+                           <div class="mImg">
+                              <picture>
+                                 <source srcset="images/dummy.webp" type="image/webp" />
+                                 <img src="images/dummy.png" alt="" />
+                              </picture>
+                           </div>
+                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
+                        </div>
+                     </div>
+                  </div>
+                  <div class="mContainer row">
+                     <div class="col-lg-3 col-6 px-3 mb-4">
+                        <div class="mItem">
+                           <div class="mImg">
+                              <picture>
+                                 <source srcset="images/dummy.webp" type="image/webp" />
+                                 <img src="images/dummy.png" alt="" />
+                              </picture>
+                           </div>
+                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
+                        </div>
+                     </div>
+                     <div class="col-lg-3 col-6 px-3 mb-4">
+                        <div class="mItem">
+                           <div class="mImg">
+                              <picture>
+                                 <source srcset="images/dummy.webp" type="image/webp" />
+                                 <img src="images/dummy.png" alt="" />
+                              </picture>
+                           </div>
+                           <div class="h4 title text-primary text-center">Lorem Ipsum.</div>
+                        </div>
+                     </div>
+                     <div class="col-lg-3 col-6 px-3 mb-4">
                         <div class="mItem">
                            <div class="mImg">
                               <picture>
@@ -396,6 +398,8 @@
                </div>
             </div>
 
+
+
          </div>
       </section>
 
@@ -406,7 +410,7 @@
          <div class="container">
             <h1 class="heading text-center fontWeight600">Our Prestigious Members </h1>
 
-            <div class="m2Container mt-lg-5">
+            <div class="m2Container mt-4 mt-md-5">
                <div class="m2Boxes">
 
                   <div class="mb-4">

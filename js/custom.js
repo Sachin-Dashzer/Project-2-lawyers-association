@@ -359,14 +359,14 @@ $(".m2mBoxSlider").slick({
     {
       breakpoint: 600,
       settings: {
-        slidesToShow: 1,
+        slidesToShow: 4,
         slidesToScroll: 1,
       },
     },
     {
       breakpoint: 480,
       settings: {
-        slidesToShow: 1,
+        slidesToShow: 3,
         slidesToScroll: 1,
         dots: false,
         arrows: false,
@@ -619,3 +619,20 @@ dmemberbtn.forEach((item, i) => {
 
 
 });
+
+
+
+
+
+document.querySelectorAll('.newNavDrop').forEach((item , i)=>{
+
+
+    item.addEventListener("click" , ()=>{
+
+          document.querySelectorAll(".newNavBox")[i].classList.toggle("activeSidebarNew");
+
+
+    })
+
+
+})

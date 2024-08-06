@@ -1,4 +1,4 @@
-<footer class="pt-5">
+<footer class="pt-md-5 pt-3">
    <div class="containerFull">
       <div class="row">
 
@@ -27,88 +27,88 @@
          </div>
 
 
-         <div class="col-lg-6 ps-5 pt-4 col-12">
+         <div class="col-lg-6 ps-md-5 pt-4 col-12">
 
 
             <div class="row footer_links" id="ft-links">
 
 
-               <div class="col-lg-4 col-12">
+               <div class="col-lg-4 col-6">
                   <div class="mb-2 pb-2 d-flex justify-content-between">
                      <h4 class="text-white">Important Links</h4>
 
                   </div>
                   <div class="collapse d-lg-block" id="collapseResources" data-bs-parent="#ft-links">
-                     <ul class="list-unstyled mb-0 py-3 py-lg-0">
+                     <ul class="list-unstyled mb-0 py-lg-0 pb-3">
 
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
 
                      </ul>
                   </div>
                </div>
-               <div class="col-lg-4 col-12">
+               <div class="col-lg-4 col-6">
                   <div class="mb-2 pb-2 d-flex justify-content-between">
                      <h4 class="text-white">Important Links</h4>
 
                   </div>
                   <div class="collapse d-lg-block" id="collapseResources" data-bs-parent="#ft-links">
-                     <ul class="list-unstyled mb-0 py-3 py-lg-0">
+                     <ul class="list-unstyled mb-0 py-lg-0 pb-3">
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
 
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
 
                      </ul>
                   </div>
                </div>
-               <div class="col-lg-4 col-12">
+               <div class="col-lg-4 col-6">
                   <div class="mb-2 pb-2 d-flex justify-content-between">
                      <h4 class="text-white">Important Links</h4>
 
                   </div>
                   <div class="collapse d-lg-block" id="collapseLocations" data-bs-parent="#ft-links">
-                     <ul class="list-unstyled mb-0 py-3 py-lg-0">
+                     <ul class="list-unstyled mb-0 py-lg-0 pb-3">
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
 
                         <li class="mb-2">
-                           <a href="#!" class="text-decoration-none text-body-secondary"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
+                           <a href="#!" class="text-decoration-none"><i class="me-2 fa-solid fa-arrow-right"></i> Lorem ipsum bond </a>
                         </li>
 
                      </ul>
@@ -117,7 +117,7 @@
 
             </div>
          </div>
-         <div class="col-lg-3 pt-4 col-12">
+         <div class="col-lg-3 pt-md-4 col-12">
             <div class="pb-2 d-flex justify-content-between">
                <h4 class="text-white">Contact</h4>
             </div>
