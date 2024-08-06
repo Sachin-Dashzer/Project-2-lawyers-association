@@ -151,6 +151,9 @@ section {
   max-width: 100%;
   filter: invert(1);
 }
+.offcanvas-header .leftLogo img {
+  filter: invert(0);
+}
 .header {
   padding: 0px 0;
 }
@@ -1306,4 +1309,18 @@ tr .tablebtn a:hover {
   width: 300px;
   padding: 40px;
   padding-bottom: 0;
+}
+
+.sideInnerMenu ul li a {
+  font-size: 18px;
+  font-weight: 700;
+  color: black;
+  margin: 5px;
+  margin-left: 13px;
+}
+.newNavBox{
+  display: none;
+}
+.offcanvas {
+  max-width: 80% !important;
 }
